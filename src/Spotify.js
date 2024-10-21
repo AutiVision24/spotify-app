@@ -1,6 +1,6 @@
 // src/spotify.js
 const authEndpoint = "https://accounts.spotify.com/authorize";
-const redirectUri = "http://localhost:3000/";
+const redirectUri = "https://spotify-app-ir.vercel.app/";
 const clientId = "4f4657a5fc034bbb973ab95e6d089344";
 
 const scopes = ["user-top-read"];
